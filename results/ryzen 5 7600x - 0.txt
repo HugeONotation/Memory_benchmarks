@@ -1,0 +1,20 @@
+--------------------------------------------------------------------
+Benchmark                          Time             CPU   Iterations
+--------------------------------------------------------------------
+unaligned_load_offset_0x0       3249 ns         3249 ns       217768
+unaligned_load_offset_0x1       4385 ns         4386 ns       158771
+unaligned_load_offset_0x2       4410 ns         4410 ns       159482
+unaligned_load_offset_0x3       4399 ns         4394 ns       159103
+unaligned_load_offset_0x4       4390 ns         4390 ns       160058
+unaligned_load_offset_0x5       4403 ns         4403 ns       159539
+unaligned_load_offset_0x6       4411 ns         4411 ns       159265
+unaligned_load_offset_0x7       4396 ns         4396 ns       159097
+unaligned_load_offset_0x8       4374 ns         4374 ns       159932
+unaligned_load_offset_0x9       4383 ns         4383 ns       159670
+unaligned_load_offset_0xa       4380 ns         4380 ns       159607
+unaligned_load_offset_0xb       4385 ns         4385 ns       159770
+unaligned_load_offset_0xc       4371 ns         4371 ns       160088
+unaligned_load_offset_0xd       4389 ns         4385 ns       159650
+unaligned_load_offset_0xe       4380 ns         4380 ns       159418
+unaligned_load_offset_0xf       4384 ns         4384 ns       159685
+aligned_load                    3233 ns         3232 ns       216817
